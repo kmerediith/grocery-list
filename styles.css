@@ -1,0 +1,32 @@
+.food-list{
+    border: solid;
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+.food-image{
+    display: inline-block;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.food-title{
+    border: solid;
+    display: block;
+    background-color: blanchedalmond;
+    width: 50%;
+}
+.grocery-title{
+    text-align: center;
+    color: darkcyan
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.food-header{
+    
+}
